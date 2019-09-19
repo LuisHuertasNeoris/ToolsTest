@@ -9,7 +9,7 @@ public class App {
 
     public static void main(String[] args) {
         //TODO hacer algo con este proyecto
-       Static name = "Fer";
+       static final name = "Fer";
         System.out.println(name);
     }
     
