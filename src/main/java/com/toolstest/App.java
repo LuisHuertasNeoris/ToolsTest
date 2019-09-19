@@ -9,8 +9,8 @@ public class App {
 
     public static void main(String[] args) {
         //TODO hacer algo con este proyecto
-       static final String name = "Fer";
-        System.out.println(name);
+      // static final String name = "Fer";
+        System.out.println("Fer");
     }
     
     public void metodo()
